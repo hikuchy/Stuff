@@ -1,4 +1,5 @@
 #Сортировка пузырьком
+#1
 import random
 a=[random.randint(-100,10000000000) for i in range(10)]
 n = len(a)
